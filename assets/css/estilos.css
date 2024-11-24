@@ -11,10 +11,10 @@ nav img {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/bg-josefina.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
+  background-position: 0% 80%;
 }
 
 /* Mis trabajos */
